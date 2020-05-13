@@ -5,21 +5,6 @@ The latest versions of the texts can be found on Medium, the latest changes to t
 
 ## Articles
 
-### Business
-* [A step-by-step introduction to Cohort Analysis in Python](https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea)
-
-### Computer Vision
-* [Mario vs. Wario: Image Classification in Python](https://towardsdatascience.com/mario-vs-wario-image-classification-in-python-ae8d10ac6d63)
-* [Mario vs. Wario — round 2: CNNs in PyTorch and Google Colab](https://towardsdatascience.com/mario-vs-wario-round-2-cnns-in-pytorch-and-google-colab-48b968cf4ace)
-* [The easiest way to download YouTube videos using Python](https://towardsdatascience.com/the-easiest-way-to-download-youtube-videos-using-python-2640958318ab)
-* [Computer Vision 101: Working with Color Images in Python](https://towardsdatascience.com/computer-vision-101-working-with-color-images-in-python-7b57381a8a54)
-* [Image Colorization using Convolutional Autoencoders](https://towardsdatascience.com/image-colorization-using-convolutional-autoencoders-fdabc1cb1dbe)
-* [Implementing Yann LeCun’s LeNet-5 in PyTorch](https://towardsdatascience.com/implementing-yann-lecuns-lenet-5-in-pytorch-5e05a0911320)
-
-### Data Wrangling 
-* [Introduction to dtplyr](https://towardsdatascience.com/introduction-to-dtplyr-783d89e9ae56)
-* [Make working with large DataFrames easier, at least for your memory](https://towardsdatascience.com/make-working-with-large-dataframes-easier-at-least-for-your-memory-6f52b5f4b5c4)
-
 ### Machine Learning 
 * [Explaining Feature Importance by example of a Random Forest](https://towardsdatascience.com/explaining-feature-importance-by-example-of-a-random-forest-d9166011959e)
 * [Outlier Detection with Isolation Forest](https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e)
